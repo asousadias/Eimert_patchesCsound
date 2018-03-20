@@ -1,4 +1,4 @@
-# Eimert_patchesCsound
+# Herbert Eimert's Elektronische Musik (1963): Csound patches
 
 [PT]
 
