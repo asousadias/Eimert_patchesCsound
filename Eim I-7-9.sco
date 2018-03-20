@@ -1,0 +1,1 @@
+; Eimert: Ex.7.9: do impulso ˆ altura definida Ñ SCORE f1 0 4096 7 0 256 1 512 -1 256 0 3072 0	; "impulso";p1	p2	p3	p4	p5	p6;		dur	amp	freq1	freq2i1	0	20	10000	3	128	; aprox D—2i1	.	.	.	4	171	; aprox Mi2i1	.	.	.	5	213	; aprox Sol2e

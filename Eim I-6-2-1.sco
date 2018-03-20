@@ -1,0 +1,1 @@
+; Eimert modulação em anel, ex. 6.2.1 f1 0 4096 10 1	; moduladora (sinusoidal)f2 0 4096 10 1 0 .33 0 .20 0 0.14 0 0.11	; apoximação a								; onda quadrada;p1	p2	p3	p4	p5	p6	p7i1	0	20	400	16000	400	0e

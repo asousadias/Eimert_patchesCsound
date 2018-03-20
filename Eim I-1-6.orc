@@ -1,0 +1,1 @@
+; Eimert ex 1.6: montagem por pescadinha (bandschleif)sr	= 44100kr	= 441ksmps	= 100nchnls	= 1instr 1	; instrumento genéricoidur	= p3iamp	= p4ifreq	= p5ifn	= p6	; onda a utilizarirel	= p7	; duração real da nota para facilitar scorekamp	linseg	0, 0.005, iamp , irel , 0 , (idur - irel -0.005), 0aout	oscili	kamp, ifreq, ifn	out	aoutendin

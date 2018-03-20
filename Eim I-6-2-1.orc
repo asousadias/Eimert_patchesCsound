@@ -1,0 +1,1 @@
+; Eimert modulação em anel, exemplo 6.2.1   sr =   44100   kr =     441   ksmps =  100   nchnls =   1; instrumento base — modulação em anelinstr 1kline	linseg	p6, 3*p3/4, p7,p3/4, p7apuls	oscil	1, kline, 1asig	oscil	p5 , p4, 2	out	asig * apulsendin
