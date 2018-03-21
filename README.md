@@ -21,3 +21,9 @@ The simulations presented here are approximate achievements of the examples pres
 António de Sousa Dias
 
 (September 1996)
+
+
+www.sousadias.com
+
+## Disclaimer:
+These patches are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
